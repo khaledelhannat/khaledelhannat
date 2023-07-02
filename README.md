@@ -1,5 +1,4 @@
-# => My new github profile still under development <= 
-![](assets/Bottom_up.svg)
+
 
 <!-- icons -->
 <p align="center">
@@ -16,7 +15,7 @@
 <br/>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEF73F&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Khaled+Elhannat;Just+call+me+Kal%F0%9F%99%82;Welcome+to+My+Profile!;Back-End+Engineer+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;ZTM+Community+Member%F0%9F%8F%AB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&weight=500&size=30&pause=1000&color=EEF73F&center=true&vCenter=true&width=700&height=60&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Khaled+Elhannat;Just+Call+me+Kal+%F0%9F%99%82;Greetings+from+My+Github+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Enthusiastic+Backend+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;ZTM+Community+Member+%F0%9F%8F%AB;Passionate+young+man+%7B21yr%7D+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;Former+Udacity+Student+%F0%9F%8E%93;Currently%2C+I'm+quite+busy%F0%9F%A7%91%E2%80%8D%F0%9F%92%BC;Working+on+Several+Major+Projects+%F0%9F%8F%97%EF%B8%8F;We+have+to+submit+them+by+the+end+of+the+year+%E2%8C%9B;Therefore%2C+Please+pardon+my+sluggish+response+time+%F0%9F%99%8F)](https://git.io/typing-svg)
 
 
 
@@ -35,7 +34,6 @@
 | **OS**                                          | <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475"><img src="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu" style="max-width: 100%;"></a>                                                                                                                                                                                                                                                                           |
 | **Tools & Frameworks**                            | ![Static Badge](https://img.shields.io/badge/Docker-233b22?logo=docker) ![Static Badge](https://img.shields.io/badge/AWS-233b22?logo=aws) ![Static Badge](https://img.shields.io/badge/HTML5-233b22?logo=html5) ![Static Badge](https://img.shields.io/badge/CSS3-233b22?logo=css3) ![Static Badge](https://img.shields.io/badge/Next.js-525252?logo=next.js) |
 
-### Hi there 👋
 
 
 
@@ -48,25 +46,20 @@
 
 
 
+<p align="center" style="font-size: 30px; font-style: italic; font-weight: bold;"> 
+Dear Visitor, Thank You ❤️
+</p>
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/{khaledelhannat}/count.svg"> 
+</p>
+
+![](assets/Bottom_down.svg)
 
 
 
 
-
-![Visitor Count](https://profile-counter.glitch.me/{khaledelhannat}/count.svg)
-
-
-<!--
-**khaledelhannat/khaledelhannat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<p align="center" style="font-size: 15px; font-style: italic;"> 
+This is my brand-new Github profile, which is presently under development.
+ </p>
