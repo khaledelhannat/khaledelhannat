@@ -1,5 +1,3 @@
-
-
 <!-- icons -->
 <p align="center">
     <a href="https://github.com/khaledelhannat"><img src="https://img.shields.io/badge/Status-Working%20on%20Multiple%20Projects-brightgreen"></a>
