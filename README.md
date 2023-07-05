@@ -49,6 +49,9 @@
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/{khaledelhannat}/count.svg"> 
 </p>
+<p align="center"> 
+DISCORD UserName: kalnatt
+</p>
 
 ![](assets/Bottom_down.svg)
 
