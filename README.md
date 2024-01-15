@@ -44,7 +44,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=60&lines=%3E-----------------%3E%3E++Dear+Visitor%2C+Thank+You+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=500&size=30&pause=1000&color=6EF76A&random=false&width=435&lines=-+Dear+Visitor%2C+Thanks+for+the+Visit+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/{khaledelhannat}/count.svg"> 
@@ -54,7 +54,6 @@ DISCORD UserName: kalnatt
 </p>
 
 ![](assets/Bottom_down.svg)
-
 
 
 
