@@ -13,7 +13,7 @@
 <br/>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&weight=500&size=30&pause=1000&color=EEF73F&center=true&vCenter=true&width=700&height=60&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Khaled+Elhannat;Just+Call+me+Kal+%F0%9F%99%82;Greetings+from+My+Github+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Enthusiastic+Backend+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;ZTM+Community+Member+%F0%9F%8F%AB;Passionate+young+man+%7B21yr%7D+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;Former+Udacity+Student+%F0%9F%8E%93;Currently%2C+I'm+quite+busy%F0%9F%A7%91%E2%80%8D%F0%9F%92%BC;Working+on+Several+Major+Projects+%F0%9F%8F%97%EF%B8%8F;We+have+to+submit+them+by+the+end+of+the+year+%E2%8C%9B;Therefore%2C+Please+pardon+my+sluggish+response+time+%F0%9F%99%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&weight=500&size=30&pause=1000&color=F7CC15&random=false&width=435&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Khaled+Elhannat;Just+Call+me+Kal+%F0%9F%99%82;Greetings+from+My+Github+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Enthusiastic+Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;ZTM+Community+Member+%F0%9F%8F%AB;Former+Udacity+Student+%F0%9F%8E%93;Passionate+young+man+21yr+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;Working+on+Several+Projects+%F0%9F%8F%97%EF%B8%8F;Therefore%2C+Please+pardon+my+sluggish+response+time+%F0%9F%99%8F)](https://git.io/typing-svg)
 
 
 
